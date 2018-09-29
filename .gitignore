@@ -1,2 +1,4 @@
 /.env
 /vendor/
+/wp-content/uploads/
+/wp-content/plugins/wp-oauth-server/
